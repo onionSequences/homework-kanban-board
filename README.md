@@ -44,3 +44,4 @@ View and interact with your tests via UI.
 pnpm run test:ui
 ```
 
+The project was scaffolded from the [template](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate).
